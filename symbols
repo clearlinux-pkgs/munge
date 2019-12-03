@@ -1,0 +1,12 @@
+libmunge.so.2:munge_ctx_copy
+libmunge.so.2:munge_ctx_create
+libmunge.so.2:munge_ctx_destroy
+libmunge.so.2:munge_ctx_get
+libmunge.so.2:munge_ctx_set
+libmunge.so.2:munge_ctx_strerror
+libmunge.so.2:munge_decode
+libmunge.so.2:munge_encode
+libmunge.so.2:munge_enum_int_to_str
+libmunge.so.2:munge_enum_is_valid
+libmunge.so.2:munge_enum_str_to_int
+libmunge.so.2:munge_strerror
