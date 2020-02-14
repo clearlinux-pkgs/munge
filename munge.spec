@@ -5,8 +5,8 @@
 Name     : munge
 Version  : 0.5.13
 Release  : 13
-URL      : https://github.com//dun/munge/archive/munge-0.5.13.tar.gz
-Source0  : https://github.com//dun/munge/archive/munge-0.5.13.tar.gz
+URL      : https://github.com/dun/munge/archive/munge-0.5.13.tar.gz
+Source0  : https://github.com/dun/munge/archive/munge-0.5.13.tar.gz
 Summary  : MUNGE authentication service library
 Group    : Development/Tools
 License  : GPL-3.0 GPL-3.0+ LGPL-3.0 LGPL-3.0+
