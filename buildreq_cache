@@ -1,5 +1,4 @@
-0.5.13
+0.5.15
 bzip2-dev
-libgcrypt-dev
 openssl-dev
 pkgconfig(zlib)

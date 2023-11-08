@@ -1,5 +1,5 @@
 PKG_NAME := munge
-URL = https://github.com/dun/munge/archive/munge-0.5.13.tar.gz
+URL = https://github.com/dun/munge/archive/munge-0.5.15/munge-0.5.15.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common

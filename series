@@ -1,2 +1,1 @@
-munge-service.patch
-munge-conf.patch
+0001-Add-munge-var-paths-to-tmpfiles-config.patch
