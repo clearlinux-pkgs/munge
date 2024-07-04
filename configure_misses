@@ -1,7 +1,5 @@
-Configure miss: specified code architecture
-Configure miss: whether debugging is enabled
+Configure miss: /dev/spx
 Configure miss: BZ2_bzBuffToBuffCompress in default libs
-Configure miss: compress in default libs
 Configure miss: CRYPTO_THREADID_set_callback
 Configure miss: CRYPTO_num_locks
 Configure miss: CRYPTO_set_id_callback
@@ -17,22 +15,21 @@ Configure miss: EVP_MD_CTX_init
 Configure miss: HMAC_CTX_cleanup
 Configure miss: HMAC_CTX_init
 Configure miss: HMAC_cleanup
+Configure miss: LOCAL_PEERCRED sockopt
 Configure miss: RAND_cleanup
-Configure miss: if EVP_CIPHER_CTX_cleanup returns int
-Configure miss: standards.h usability
-Configure miss: standards.h presence
-Configure miss: standards.h
+Configure miss: compress in default libs
 Configure miss: getgrent_r (AIX)
 Configure miss: getgrent_r (GNU)
 Configure miss: getgrent_r (SunOS)
 Configure miss: getgrnam_r (SunOS)
 Configure miss: getpwnam_r (AIX)
 Configure miss: getpwnam_r (SunOS)
-Configure miss: ucred.h usability
-Configure miss: ucred.h presence
-Configure miss: ucred.h
-Configure miss: struct xucred
-Configure miss: LOCAL_PEERCRED sockopt
-Configure miss: struct strrecvfd
+Configure miss: if EVP_CIPHER_CTX_cleanup returns int
 Configure miss: if file descriptors can be passed over a fifo
-Configure miss: /dev/spx
+Configure miss: specified code architecture
+Configure miss: standards.h
+Configure miss: struct strrecvfd
+Configure miss: struct xucred
+Configure miss: ucred.h
+Configure miss: whether debugging is enabled
+Configure miss: x86_64-generic-linux-gnu-file
